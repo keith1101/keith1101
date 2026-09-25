@@ -3,10 +3,9 @@
 
 ### Featured projects
 
-- 🐎 **[Racehorse Management UI](https://github.com/keith1101/racing-horse-management-ui)** — React, TypeScript & Three.js interface for horse management.
 - ⚙️ **[Course Management API](https://github.com/keith1101/CourseManagement)** — NestJS, Prisma & PostgreSQL backend.
 - 🚀 **[PH-SHOWOA](https://github.com/keith1101/PH-SHOWOA)** — Python/CUDA hybrid optimization for vehicle routing.
-- 🏎️ **[Jetson AI Racer](https://github.com/keith1101/Jetson-AI-Racer-2026-KingOfRacer)** — AI-powered autonomous racing experiments.
+- 🛡️ **[Phishing URL Detector](https://github.com/keith1101/url-detection)** — Python & XGBoost tool for detecting phishing URLs.
 - 📊 **[E-commerce Analytics](https://github.com/keith1101/pds301m-ecommerce-analytics)** — Retail data analysis & RFM segmentation *(in progress)*.
 
 ### Tech
