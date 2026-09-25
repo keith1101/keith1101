@@ -3,7 +3,7 @@
 
 ### Featured projects
 
-- ⚙️ **[Course Management API](https://github.com/keith1101/CourseManagement)** — NestJS, Prisma & PostgreSQL backend.
+- ⚙️ **[Course Management](https://github.com/keith1101/CourseManagement)** — NestJS API for learning materials, online exams & student management.
 - 🚀 **[PH-SHOWOA](https://github.com/keith1101/PH-SHOWOA)** — Python/CUDA hybrid optimization for vehicle routing.
 - 🛡️ **[Phishing URL Detector](https://github.com/keith1101/url-detection)** — Python & XGBoost tool for detecting phishing URLs.
 - 📊 **[E-commerce Analytics](https://github.com/keith1101/pds301m-ecommerce-analytics)** — Retail data analysis & RFM segmentation *(in progress)*.
